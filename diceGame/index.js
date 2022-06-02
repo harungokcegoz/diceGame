@@ -1,35 +1,3 @@
-// var dices = [
-//   {
-//     name: "dice1",
-//     photo_url:
-//       "DOM Challenge-Dicee Challenge - Starting Files/images/dice1.png",
-//   },
-//   {
-//     name: "dice2",
-//     photo_url:
-//       "DOM Challenge-Dicee Challenge - Starting Files/images/dice2.png",
-//   },
-//   {
-//     name: "dice3",
-//     photo_url:
-//       "DOM Challenge-Dicee Challenge - Starting Files/images/dice3.png",
-//   },
-//   {
-//     name: "dice4",
-//     photo_url:
-//       "DOM Challenge-Dicee Challenge - Starting Files/images/dice4.png",
-//   },
-//   {
-//     name: "dice5",
-//     photo_url:
-//       "DOM Challenge-Dicee Challenge - Starting Files/images/dice5.png",
-//   },
-//   {
-//     name: "dice6",
-//     photo_url:
-//       "DOM Challenge-Dicee Challenge - Starting Files/images/dice6.png",
-//   },
-// ];
 
 var dice1 = document.createElement("dice1");
 dice1.src = "images/dice1.png";
